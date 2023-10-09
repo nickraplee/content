@@ -1,4 +1,4 @@
-name: "Pull request labeler"
+[![auto-merge](https://github.com/nickraplee/content/actions/workflows/auto-merge.yml/badge.svg)](https://github.com/nickraplee/content/actions/workflows/auto-merge.yml)name: "Pull request labeler"
 on:
   - pull_request_target
 

@@ -1,4 +1,8 @@
-*	text=auto eol=lf
+# Some examples of various styles:
+vim: syntax=java
+vim: set syntax=ruby:
+vim: set filetype=prolog:
+vim: set ft=cpp:*	text=auto eol=lf
 *.md	linguist-detectable
 CODE_OF_CONDUCT.md	-linguist-detectable
 LICENSE.md	-linguist-detectable
